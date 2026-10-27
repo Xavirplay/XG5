@@ -1,2 +1,2 @@
 # XG5
-Persian PS5 Store
+Persian Homebrew P5 Store
