@@ -3,9 +3,11 @@
 # 🎮 XG5
 
 ### فروشگاه بازی
-<img width="2048" height="1080" alt="New Project (1)" src="https://github.com/user-attachments/assets/19ab281d-1b9d-40df-936c-d2c7cf5a108c" />
 
 **The game store for P5**
+
+<img width="250" height="250" alt="l" src="https://github.com/user-attachments/assets/9688a20a-8e6c-49bb-a8eb-2b6e831423cf" />
+
 
 ![Platform](https://img.shields.io/badge/platform-PS5-003791?logo=playstation&logoColor=white)
 ![Languages](https://img.shields.io/badge/languages-14-green)
