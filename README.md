@@ -8,8 +8,6 @@
 <img width="250" height="250" alt="l" src="https://github.com/user-attachments/assets/9688a20a-8e6c-49bb-a8eb-2b6e831423cf" />
 
 
-![Platform](https://img.shields.io/badge/platform-PS5-003791?logo=playstation&logoColor=white)
-![Languages](https://img.shields.io/badge/languages-14-green)
 ![License](https://img.shields.io/badge/license-GPL--3.0--or--later-blue)
 [![Telegram](https://img.shields.io/badge/Telegram-@XG5store-26A5E4?logo=telegram&logoColor=white)](https://t.me/XG5store)
 
