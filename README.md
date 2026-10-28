@@ -1,8 +1,7 @@
 <div align="center">
 
-# 🎮 XG5
+# XG5
 
-### فروشگاه بازی
 
 **The game store for P5**
 
