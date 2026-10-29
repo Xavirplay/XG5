@@ -25,7 +25,7 @@ download with a native multi-connection engine, install and play — no PC in th
 - 🎮 **Console-native UI** — built for the gamepad, in the store style you know
 
 ## 📥 Install
-put the file in homebrew folder like any other  games
+Dowbload Exfat file and put the file in homebrew folder like any other  games
 
 ## 🚨 Report a dead link
 
